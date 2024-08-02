@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Revision_de_codigo_4</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/f271c36ea86bb0498df5d8b4ab6ab258-22121b591062de61b7f6c514695dc2baf4c96574.zip</name>
+			<type>1</type>
+			<location>C:/Users/neri_/Downloads/f271c36ea86bb0498df5d8b4ab6ab258-22121b591062de61b7f6c514695dc2baf4c96574.zip</location>
+		</link>
+	</linkedResources>
+</projectDescription>
